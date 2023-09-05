@@ -221,14 +221,17 @@ h3{
 .foot-panel3{
     background-color: #222f3d;
     margin-top: -35px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
     color: white;
 }
 .logoo{
     background-image:url("amazon.png");
     background-size: cover;
-    justify-content: center; 
+/*     justify-content: center; 
      margin-left: 850px;
-     align-items: center;
+     align-items: center; */
     height: 50px;
     width: 100px; 
 }
